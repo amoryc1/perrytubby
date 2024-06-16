@@ -1,2 +1,4 @@
 # perrytubby
-Project I'm making for my D.T. coursework
+Math game I'm making as part of my D.T. coursework
+
+Might include stuff not related to maths
